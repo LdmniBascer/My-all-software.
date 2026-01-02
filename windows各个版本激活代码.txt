@@ -1,0 +1,12 @@
+irm https://get.activated.win | iex
+
+irm https://get.activated.win | iex
+
+irm https://get.activated.win | iex
+-----------------------------------------------------------    对于windows8、10、11在Powershell里打开的激活代码（在上面）---------------------------------------------------------------------------------------
+iex ((New-Object Net.WebClient).DownloadString('https://get.activated.win'))
+
+iex ((New-Object Net.WebClient).DownloadString('https://get.activated.win'))
+
+iex ((New-Object Net.WebClient).DownloadString('https://get.activated.win'))
+-----------------------------------------------------------------------------------对于windows7(在PowerShell里打开)--------------------------------------------------------------------------------------------------
